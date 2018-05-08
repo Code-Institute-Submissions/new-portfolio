@@ -3,7 +3,7 @@
 ## Overview
 
 ## Live Demo
-Follow this link to view deployed version of the website : https://www.nicholawolfe.com/
+Follow this link to view deployed version of the website : https://wolfenchic.github.io/new-portfolio/
  
 ### What is this website for?
 This website acts as a bio and portfolio page for myself. I intend to use it to pursue freelance web development work and also to apply for jobs. 
