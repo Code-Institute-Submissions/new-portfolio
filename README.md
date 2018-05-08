@@ -71,4 +71,6 @@ This website was built using a Bootstrap framework. The site is a one page scrol
 ### Information
 - The information displayed on this site, in particular on the Services section, reflects skills that I have developed throughout my career and which I am confident in offering as paid services for prospective clients. 
 
- # portfolio
+### Version control
+-Originally this project was created and deployed to: https://www.nicholawolfe.com/. As alterations are prohibited once submitted and my original site is active I decided to clone this version for submission and grading. It may appear that there have been very few commits throughout the development period of this site, however, you are welcome to take a look at the [original repository](https://github.com/wolfenchic/streamoneproject), which contains, at the time of writing, 36 commits. 
+
